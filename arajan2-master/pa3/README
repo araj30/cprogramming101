@@ -1,0 +1,14 @@
+* Anya Rajan, arajan2
+* 2022 Spring CSE101 PA2 
+* README 
+* README as a table of contents for project files
+
+Table of Contents
+
+List.h - File for List ADT function prototypes
+List.c - File for List ADT function definitions
+Graph.h - File for Graph ADT function prototypes
+Graph.c - File for Graph ADT function definitions
+GraphTest.c - File to test Graph ADT functions
+FindComponents.c - implements top-level client and main program from this project
+Makefile - File to make executable for program

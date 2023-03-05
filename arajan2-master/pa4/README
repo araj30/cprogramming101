@@ -1,0 +1,17 @@
+/*********************************************************************************
+* Anya Rajan, arajan2
+* 2022 Spring CSE101 PA4
+* README 
+* README as a table of contents for project files
+**********************************************************************************/
+
+Table of Contents
+
+List.h - File for List ADT function prototypes
+List.c - File for List ADT function definitions
+Matrix.h - File for Matrix ADT function prototypes
+Matrix.c - File for Matrix ADT function definitions
+MatrixTest.c - File to test Matrix ADT functions
+ListTest.c - File to test List ADT functions
+Sparse.c - Client file for Matrix ADT 
+Makefile - File to make executable for program

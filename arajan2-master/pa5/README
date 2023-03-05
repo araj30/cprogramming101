@@ -1,0 +1,16 @@
+ /**************************************************************************
+ * Anya Rajan, arajan2
+ * 2022 Spring CSE101 PA5
+ * README
+ * README is the table of contents for this assignment
+ * *************************************************************************/
+
+Table of Contents
+
+README - Table of contents for project files
+Makefile - Creates the executables for this project
+List.h - File for List ADT function prototypes and has the primary class that defines the exported type
+List.cpp - File for List ADT function definitions
+ListTest.cpp - Test harness for List ADTs
+Shuffle.cpp - Top level client for assignment
+

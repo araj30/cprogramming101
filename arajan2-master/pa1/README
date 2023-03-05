@@ -1,0 +1,15 @@
+/********************************************************************************* 
+* Anya Rajan, arajan2
+* 2022 Spring CSE101 PA1 
+* README 
+* README as a table of contents for project files
+**********************************************************************************/
+
+Table of Contents
+
+List.h - File for List ADT function prototypes
+List.c - File for List ADT function definitions
+ListTest.c - File to test List ADT functions
+Lex.c - Client file for List ADT
+Makefile - File to make executable for program
+
